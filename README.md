@@ -1,3 +1,5 @@
+THERE IS A README INSIDE LITTLELEMON FOLDER THAT LOOKS BETTER THAN THIS ONE.
+
 This is my project for the Meta Back-End Capstone course.
 
 Remember to run all the necesary commands:
